@@ -1,7 +1,3 @@
-
-
-#ifndef __MAIN__
-
 #include <stdio.h>
 #include "header.h"
 
@@ -16,5 +12,3 @@ int main(void){
 	fclose(fp);
 	return 0;
 }
-
-#endif
